@@ -8,17 +8,12 @@ This Python script automates Test Case 01 (Add a package) and Test Case 02 (Dele
 1. **Install Python:** Ensure that Python is installed on your machine. You can download it from [Python Official Website](https://www.python.org/downloads/).
 2. **Install Selenium:** Run `pip install selenium` to install the Selenium package.
 3. **Download WebDriver:** Download the appropriate WebDriver for your browser (e.g., ChromeDriver for Chrome) and ensure it's in your system PATH.
-4. **Update the Script:**
-   - Replace `"your_application_url"` with the actual URL of your application.
-   - Update the element locators and actions in the `add_package` and `delete_package` functions based on your application's HTML structure.
-5. **Run the Script:** Execute the script by running `python automation_script.py` in the terminal.
 
 ## Design Decisions:
 
 - Chose Python for its readability and simplicity.
 - Used Selenium WebDriver for browser automation due to its wide adoption and support.
-- Organized code into functions (`add_package` and `delete_package`) for better maintainability.
-- Incorporated implicit waits to handle potential delays in page loading and element visibility.
+
 
 ## Approach:
 
@@ -28,7 +23,7 @@ This Python script automates Test Case 01 (Add a package) and Test Case 02 (Dele
 4. Execute Test Case 02: Delete a package using appropriate element locators.
 
 
-#Exercise 2: Postman 
+## Exercise 2: Postman 
 ## EasyPost API Testing
 
 ## Steps to Execute the Code:

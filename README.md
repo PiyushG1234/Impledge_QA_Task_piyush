@@ -1,4 +1,4 @@
-# Exercise 1: AutomatedSourceCode Test Cases for Adding/Deleting a Package 
+## Exercise 1: AutomatedSourceCode Test Cases for Adding/Deleting a Package 
 
 ## Overview:
 This Python script automates Test Case 01 (Add a package) and Test Case 02 (Delete a package) using Selenium WebDriver.
